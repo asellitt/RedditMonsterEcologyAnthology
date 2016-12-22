@@ -9,16 +9,16 @@
   .phb#p1{ text-align:center; }
   .phb#p1:after{ display:none; }
   .phb .toc>ul>li { 
-  	margin-bottom: 5px; 
+    margin-bottom: 5px; 
     text-align: justify;
     height: 15px;
   }
   .phb .toc>ul>li:after {
     content: "";
     display: inline-block;
-   	width: 100%;
+    width: 100%;
   }
-  	
+    
 </style>
 
 <div style='margin-top:450px;'></div>
@@ -34,21 +34,21 @@
 
 # Original Compilation Introduction
 
-*I love monsters. I think its the reason I fell in love with D&D. I own 15 Monster Manuals across 5 editions, and all of them are old friends. Where would D&D be without the Beholder or the titular Dragon? I can't imagine a world without Stirge or Jermlaine. This book is book is for storytellers and worldbuilders. Its the result of a heap of passionate people writing lore for the monsters we all know and love.*
+I love monsters. I think its the reason I fell in love with D&D. I own 15 Monster Manuals across 5 editions, and all of them are old friends. Where would D&D be without the Beholder or the titular Dragon? I can't imagine a world without Stirge or Jermlaine. This book is book is for storytellers and worldbuilders. Its the result of a heap of passionate people writing lore for the monsters we all know and love.
 
-*I remember the first Monster Manual from 1st Edition very well. I would stare at the drawing of the Carrion Crawler and marvel at its design and how terrifying it would be to meet one in a dark cavern, dropping down on some poor adventurer's head and dragging him away into the darkness to be eaten. Or how I was pretty sure I was never going to have a Duckbunny or a Giant Beaver in one of my campaigns.*
+I remember the first Monster Manual from 1st Edition very well. I would stare at the drawing of the Carrion Crawler and marvel at its design and how terrifying it would be to meet one in a dark cavern, dropping down on some poor adventurer's head and dragging him away into the darkness to be eaten. Or how I was pretty sure I was never going to have a Duckbunny or a Giant Beaver in one of my campaigns.
 
-*Well. The Giant Beaver did appear once. A whole nest of them. I had come up with some crazy reason why they were mutated - the result of some mad wizard's experimentation to stop an incursion of militant druids who were hell-bent on reforesting a grassland. I was 12 at the time, ok? Don't judge me.*
+Well. The Giant Beaver did appear once. A whole nest of them. I had come up with some crazy reason why they were mutated - the result of some mad wizard's experimentation to stop an incursion of militant druids who were hell-bent on reforesting a grassland. I was 12 at the time, ok? Don't judge me.
 
-*I would read these books for hours. Wondering how they were created. How they lived and what their societies looked like. Over the years, as I got more and more of the Manuals, I realized that the lore, the very core of the reason why these things existed started to become less and less frequent. The 2nd Edition Monstrous Manual stands as a paragon of monster lore. Fleshy and exciting, they spurred me to create my own lore and twist the established tales.*
+I would read these books for hours. Wondering how they were created. How they lived and what their societies looked like. Over the years, as I got more and more of the Manuals, I realized that the lore, the very core of the reason why these things existed started to become less and less frequent. The 2nd Edition Monstrous Manual stands as a paragon of monster lore. Fleshy and exciting, they spurred me to create my own lore and twist the established tales.
 
-*Then came Dragon Magazine.*
+Then came Dragon Magazine.
 
-*The first Ecology article appeared in Dragon #72 and was the Ecology of the Piercer. It was the start of a great many articles discussing D&D monsters from a *naturalists* point-of-view.*
+The first Ecology article appeared in Dragon #72 and was the Ecology of the Piercer. It was the start of a great many articles discussing D&D monsters from a *naturalists* point-of-view.
 
-*/r/DndBehindTheScreen decided to continue the tradition with this project for the 5th edition of the game, in the hopes that we could emulate-in-spirit the ideas of these early articles, and to add our own fresh ideas to the established lore.*
+/r/DndBehindTheScreen decided to continue the tradition with this project for the 5th edition of the game, in the hopes that we could emulate-in-spirit the ideas of these early articles, and to add our own fresh ideas to the established lore.
 
-*These articles are not meant to simply rehash what we already know, but to bring a new perspective, and to perhaps push the lore into new areas that readers might not have considered on their own. I think it was a great success.*
+These articles are not meant to simply rehash what we already know, but to bring a new perspective, and to perhaps push the lore into new areas that readers might not have considered on their own. I think it was a great success.
 
 ```
 ```
@@ -79,7 +79,9 @@ There are 153 monsters in the 5e Monster Manual. There are also monsters in the 
 
 I would like to thank all the contributors for their amazing ideas and for working so hard on this. In time, it's my hope that this book will allow a new generation of gamers to question the status-quo and to bring their own spin on creatures that we have become familiar with over the past 40+ years of Dungeons & Dragons.
 
-#### -Matt H. aka Famoushippopotamus Project Leader
+#### -Matt H. aka Famoushippopotamus 
+#### Project Leader
+
 <div class='pageNumber auto'></div>
 \page
 <div class='toc'>
@@ -13060,7 +13062,7 @@ Some say that wicked souls can fight their way out of the frozen river of the da
 \page
 <div class='wide'>
 # Credits
-The following is a detailed list of all of the major contributors to this project. Beyond the names listed here, there are countless other commentors and individuals from outside of reddit who have contributed this project in their own ways. Because of the decentralized nature of the project, it is impossible to collect all of the names. Rest assured: your contribution, however small or grand, is valued. This compilation was constructed over the course of 3 days, requiring round-the-clock effort by myself, and was made possible only by The Homebrewery, a powerful online word processor streamlined for making 5e-styled documents using markdown, crated by Scott Tolksdorf, available at http://homebrewery.naturalcrit.com/. *-J.A.Malcolmson, Editor*
+The following is a detailed list of all of the major contributors to this project. Beyond the names listed here, there are countless other commentors and individuals from outside of reddit who have contributed this project in their own ways. Because of the decentralized nature of the project, it is impossible to collect all of the names. Rest assured: your contribution, however small or grand, is valued. This compilation was constructed over the course of 3 days, requiring round-the-clock effort by myself, and was made possible only by The Homebrewery, a powerful online word processor streamlined for making 5e-styled documents using markdown, crated by Scott Tolksdorf, available at http://homebrewery.naturalcrit.com/. *-J.A.Malcolmson & asellitt, Editor*
 </div>
 
 | Contribution | Contributor |
